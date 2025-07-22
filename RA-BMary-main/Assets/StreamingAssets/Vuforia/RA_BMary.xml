@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="LetterS" size="150.000000 150.000000" />
+    <ImageTarget name="LetterN" size="150.000000 150.000000" />
+    <ImageTarget name="LetterG" size="150.000000 150.000000" />
+    <ImageTarget name="LetterT" size="150.000000 150.000000" />
+    <ImageTarget name="LetterR" size="150.000000 150.000000" />
+    <ImageTarget name="LetterE" size="150.000000 150.000000" />
+    <ImageTarget name="LetterA" size="150.000000 150.000000" />
+    <ImageTarget name="Enigma" size="150.000000 150.000000" />
+    <ImageTarget name="Olhos" size="150.000000 150.000000" />
+    <ImageTarget name="carta-test" size="150.000000 150.000000" />
+    <ImageTarget name="quadro-1024" size="150.000000 150.000000" />
+    <ImageTarget name="ferramantas-1024" size="150.000000 150.000000" />
+    <ImageTarget name="Espelho-TEST" size="150.000000 150.000000" />
+  </Tracking>
+</QCARConfig>
